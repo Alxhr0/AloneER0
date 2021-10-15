@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me ...
-   Alone#4154
+   Discord: Alone#4154
    
 
 <!---
