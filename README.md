@@ -10,4 +10,4 @@ AloneER0/AloneER0 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-https://giphy.com/gifs/vintage-computer-old-l1J9qemh1La8b0Rag
+https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif
