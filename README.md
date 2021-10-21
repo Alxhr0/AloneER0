@@ -6,7 +6,7 @@ Interests :
 💻: Programming
 📘: Reading
 
-Currently Learning: Python
+Currently Learning: C
 
 Where to find me?:
 Discord: Alone#4154
