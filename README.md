@@ -19,4 +19,4 @@ Where to find me?
 
 ## Stuff that i'm still learning but have quite good knowlage 
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/%EE%98%A7-GOlang-red&style%3C?style=for-the-badge&logo=appveyor%3E) ![](https://img.shields.io/badge/%EF%8C%88-Docker-blue&style%3C?style=for-the-badge&logoWidth=40=%3E?color=&color=blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GoLang](https://img.shields.io/badge/%EE%98%A7-GOlang-red&style%3C?style=for-the-badge&logo=appveyor%3E) ![Docker](https://img.shields.io/badge/%EF%8C%88-Docker-blue&style%3C?style=for-the-badge&logoWidth=40=%3E?color=&color=blue)
