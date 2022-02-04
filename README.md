@@ -4,7 +4,7 @@ Where to find me?
 # Discord: AloneER0#4154
 
 ## Workspace 💻
-   ![Intel](https://img.shields.io/badge/Intel-Core_i5_4200M-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
+ ![NixOS](https://img.shields.io/badge/%EF%8C%93-NixOS-9cf) ![Intel](https://img.shields.io/badge/Intel-Core_i5_4200M-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
 
 ## Skills 🛠
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
