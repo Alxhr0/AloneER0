@@ -2,6 +2,8 @@
 
 Where to find me?
 # Discord: AloneER0#4154
+# Twitter: @AloneEr0
+
 
 ## Workspace 💻
  ![NixOS](https://img.shields.io/badge/%EF%8C%93-NixOS-9cf&style%3C?style=for-the-badge&logo=appveyor%3E?color=&color=9cf) ![Intel](https://img.shields.io/badge/Intel-Core_i5_4200M-0071C5?style=for-the-badge&logo=intel&logoColor=white) 
@@ -10,8 +12,7 @@ Where to find me?
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Want to learn
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## Tools i use 🗒️
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
